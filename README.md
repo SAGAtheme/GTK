@@ -1,4 +1,4 @@
-# SAGA GTK theme
+# SAGA for GTK
 A Dark theme for [GTK](https://www.gtk.org/)
 
 ![Screenshot](./screenshot.png)
