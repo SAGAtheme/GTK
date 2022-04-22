@@ -1,5 +1,7 @@
-# GTK
-Dark theme for GTK3
+# SAGA GTK theme
+A Dark theme with colourful shades of pastel for GTK3
+
+![Screenshot](./screenshot.png)
 
 ## Installation
 Clone the repository and move the theme folders into ~/.themes
@@ -10,4 +12,8 @@ Clone the repository and move the theme folders into ~/.themes
 Move the icons into ~/.icons
 `mkdir ~/.icons`
 `mv -r SAGACONS ~/.icons`
+
+## License
+
+[MIT License](./LICENSE)
 
