@@ -1,5 +1,5 @@
 # SAGA GTK theme
-A Dark theme with colourful shades of pastel for GTK3
+A Dark theme for [GTK](https://www.gtk.org/)
 
 ![Screenshot](./screenshot.png)
 
