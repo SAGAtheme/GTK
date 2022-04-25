@@ -14,7 +14,7 @@ cd GTK && cp -r SAGA-* ~/.themes
 Move the icons into ~/.icons
 ```
 mkdir ~/.icons
-mv -r SAGACONS ~/.icons
+cp -r SAGACONS ~/.icons
 ```
 
 ## License
