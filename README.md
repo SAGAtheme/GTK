@@ -4,18 +4,13 @@ A Dark theme for [GTK](https://www.gtk.org/)
 ![Screenshot](./screenshot.png)
 
 ## Installation
-Clone the repository and move the theme folders into ~/.themes
 ```
 mkdir ~/.themes
 git clone https://github.com/SAGAtheme/GTK.git
-cd GTK && cp -r SAGA-* ~/.themes
+cp -r GTK/themes/. ~/.themes 
+cp -r GTK/icons/. ~/icons
 ```
 
-Move the icons into ~/.icons
-```
-mkdir ~/.icons
-cp -r SAGACONS ~/.icons
-```
 
 ## License
 
